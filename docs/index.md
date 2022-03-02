@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/slmnantny/slmnantny/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+@slmnantny takes your privacy seriously. To better protect your privacy, we provide this privacy policy notice explaining the way your personal information is collected and used.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Collection of Routine Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This website/app track basic information about their users. This information includes, but is not limited to, IP addresses, browser/app details, timestamps and referring pages. None of this information can personally identify specific users to this website/app. The information is tracked for routine administration and maintenance purposes.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Cookies
 
-- Bulleted
-- List
+Where necessary, this website/app uses cookies to store information about a visitor’s preferences and history in order to better serve the user and/or present the user with customized content.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Advertisement and Other Third Parties
 
-[Link](url) and ![Image](src)
-```
+Advertising partners and other third parties may use cookies, scripts and/or web beacons to track user activities on this website/app in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This website/app has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## Links to Third Party Websites
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/slmnantny/slmnantny/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+@slmnantny has included links on this website/app for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Security
+
+The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+
+## Changes To This Privacy Policy
+
+This Privacy Policy is effective as of 03/01/2022 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website/app.
+
+
+## Contact Information
+
+For any questions or concerns regarding the privacy policy, please send us an email to solomonantonys@hotmail.com.
